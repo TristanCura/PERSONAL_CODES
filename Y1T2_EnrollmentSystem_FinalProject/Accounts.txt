@@ -1,2 +1,0 @@
-adminUser adminPass Admin
-studentUser studentPass Student
