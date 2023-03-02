@@ -1,0 +1,3 @@
+adminUser adminPass Admin
+studentUser studentPass Student
+Testmode pass Student
